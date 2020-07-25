@@ -51,7 +51,7 @@
 
 <p>
   <a href="https://github.com/RodrigoAntoniaci">
-    <img width="50%" align="right" alt="Rodrigo Antoniaci's github stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoAntoniaci&theme=dark&show_icons=true&hide_border=true"/>
+    <img width="50%" align="right" alt="Rodrigo Antoniaci's github stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoAntoniaci&show_icons=true&hide_border=true"/>
   </a>
  
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
