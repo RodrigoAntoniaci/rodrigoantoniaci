@@ -51,7 +51,7 @@
 
 <p>
   <a href="https://github.com/RodrigoAntoniaci">
-    <img width="50%" align="right" alt="Rodrigo Antoniaci's github stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoAntoniaci&show_icons=true&hide_border=true"/>
+    <img width="50%" align="right" alt="Rodrigo Antoniaci's github stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoAntoniaci&theme=dark&show_icons=true&hide_border=true"/>
   </a>
  
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -63,6 +63,10 @@
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="13%" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
   <br />
+  
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+  <code><img width="13%" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg"></code>
+  
 </p>
 
   
