@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Rodrigo Antoniaci, a Data Analyst from Brazil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Rodrigo Antoniaci, a Data Analyst from Brazil :bar_chart:
 
 <a href="https://www.linkedin.com/in/rodrigoantoniaci/">
   <img align="left" alt="Rodrigo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -29,6 +29,50 @@
   <img align="left" alt="Rodrigos's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
 </a>
 
-
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MBVemoHuyw9Ik/giphy.gif" />
+
+&nbsp;
+&nbsp;
+
+<!-- Talking about you -->
+### Talking about Personal Stuffs:
+
+- 👨🏽‍💻 TO-DO;
+- 🌱 TO-DO; TO-DO
+- 👯 TO-DO🤝;
+- 🤔 TO-DO
+- 💬 TO-DO
+- ⚡️ TO-DO
+- 📫 TO-DO
+
+&nbsp;
+
+### Languages and Tools:
+
+<p>
+  <a href="https://github.com/RodrigoAntoniaci">
+    <img width="55%" align="right" alt="Rodrigo Antoniaci's github stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoAntoniaci&show_icons=true"/>
+  </a>
+ 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+
+  
+
+
+
+
