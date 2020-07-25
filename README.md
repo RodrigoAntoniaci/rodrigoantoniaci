@@ -35,7 +35,7 @@
 &nbsp;
 
 <!-- Talking about you -->
-### Talking about Personal Stuffs:
+### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 TO-DO;
 - 🌱 TO-DO; TO-DO
@@ -47,7 +47,7 @@
 
 &nbsp;
 
-### Languages and Tools:
+### **Languages and Tools:**
 
 <p>
   <a href="https://github.com/RodrigoAntoniaci">
