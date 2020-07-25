@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Rodrigo Antoniaci, a Data Analyst from Brazil :bar_chart:
+## Rodrigo Antoniaci, a Data Analyst in training from Brazil :bar_chart:
 
 <a href="https://www.linkedin.com/in/rodrigoantoniaci/">
   <img align="left" alt="Rodrigo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,15 +35,12 @@
 &nbsp;
 
 <!-- Talking about you -->
-### **Talking about Personal Stuffs:**
+### **Personal Stuffs:**
 
-- 👨🏽‍💻 TO-DO;
-- 🌱 TO-DO; TO-DO
-- 👯 TO-DO🤝;
-- 🤔 TO-DO
-- 💬 TO-DO
-- ⚡️ TO-DO
-- 📫 TO-DO
+- 👨🏽‍💻 I'm currently working at TecBan;
+- 🌱 Sharpening analytics and Python skills;
+- 💬 I'll do my best to help if you have a question;
+- ⚡️ Fun-fact: i have fear of heights but not of flying;
 
 &nbsp;
 
@@ -66,6 +63,5 @@
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-  
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code> 
 </p>
