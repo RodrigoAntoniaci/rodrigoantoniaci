@@ -54,19 +54,18 @@
     <img width="50%" align="right" alt="Rodrigo Antoniaci's github stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoAntoniaci&show_icons=true&hide_border=true"/>
   </a>
  
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
- 
-  <br />
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="13%" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
-  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <br/>
   
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="13%" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg"></code>
+  <br/>
   
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   
 </p>
