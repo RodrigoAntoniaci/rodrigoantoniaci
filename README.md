@@ -37,7 +37,7 @@
 <!-- Talking about you -->
 ### **Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently working at Mutant;
+- 👨🏽‍💻 I'm currently working at iFood;
 - 🌱 Sharpening analytics and Python skills;
 - 💬 I'll do my best to help if you have a question;
 - ⚡️ Fun-fact: I have fear of heights but not of flying;
